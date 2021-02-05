@@ -1,0 +1,19 @@
+{
+    "name": "Trotti_API",
+    "scripts": {
+        "start": "node app.js",
+        "test": "jest"
+    },
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "crypto": "^1.0.1",
+        "dotenv": "^8.2.0",
+        "fastify": "^3.11.0",
+        "jimp": "^0.5.4",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.11.14",
+        "qrcode": "^1.4.4",
+        "qrcode-reader": "^1.0.4"
+    }
+}
